@@ -6,7 +6,7 @@ Automating incident response, accelerating threat detection, and streamlining SO
 
 <h2>Diagram:</h2>
 
-![SOC automation](https://github.com/ntieu4328/SOC-Analyst-Automation/assets/156137990/0d00116c-fdc5-4afa-aa44-20ca04e1a6f2)
+![SOC automation](https://github.com/ntieu4328/SOC-Analyst-Automation-Overview/assets/156137990/0dd2a91f-ed29-41a5-b8a9-397a545cab10)
 
 This is the framework of the project and an overview of how it functions.
 
