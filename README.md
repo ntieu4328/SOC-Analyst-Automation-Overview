@@ -1,4 +1,4 @@
-<h1>SOC Analyst Automation</h1>
+<h1>SOC Analyst Automation Overview</h1>
 
 <h2>Description:</h2>
 
